@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BaseVersion</key>
+	<string>1.0</string>
+	<key>DiffPackType</key>
+	<string>UserEdit</string>
+	<key>DocumentType</key>
+	<string>PlaygroundBook</string>
+	<key>Name</key>
+	<string>com.yourdomain.729CDC24</string>
+	<key>UpdateVersion</key>
+	<string>1.0</string>
+	<key>Updates</key>
+	<dict>
+		<key>Added</key>
+		<array>
+			<dict>
+				<key>File</key>
+				<string>Chapters/Chapter1.playgroundchapter/UserManifest.plist</string>
+			</dict>
+			<dict>
+				<key>File</key>
+				<string>UserModules/UserModule.playgroundmodule/Sources/AudioManager.swift</string>
+			</dict>
+			<dict>
+				<key>File</key>
+				<string>Chapters/Chapter1.playgroundchapter/Pages/My Playground.playgroundpage/UserManifest.plist</string>
+			</dict>
+		</array>
+		<key>Modified</key>
+		<array>
+			<dict>
+				<key>Diff</key>
+				<string>UserModules/UserModule.playgroundmodule/Sources/StartScreen.swift.delta</string>
+				<key>File</key>
+				<string>UserModules/UserModule.playgroundmodule/Sources/StartScreen.swift</string>
+			</dict>
+			<dict>
+				<key>Diff</key>
+				<string>UserModules/UserModule.playgroundmodule/Sources/TwoHands.swift.delta</string>
+				<key>File</key>
+				<string>UserModules/UserModule.playgroundmodule/Sources/TwoHands.swift</string>
+			</dict>
+			<dict>
+				<key>Diff</key>
+				<string>UserModules/UserModule.playgroundmodule/Sources/GameScreen.swift.delta</string>
+				<key>File</key>
+				<string>UserModules/UserModule.playgroundmodule/Sources/GameScreen.swift</string>
+			</dict>
+			<dict>
+				<key>Diff</key>
+				<string>UserModules/UserModule.playgroundmodule/Sources/GameController.swift.delta</string>
+				<key>File</key>
+				<string>UserModules/UserModule.playgroundmodule/Sources/GameController.swift</string>
+			</dict>
+		</array>
+		<key>Removed</key>
+		<array>
+			<dict>
+				<key>File</key>
+				<string>UserModules/UserModule.playgroundmodule/Sources/aa.swift</string>
+			</dict>
+		</array>
+		<key>Replaced</key>
+		<array/>
+	</dict>
+</dict>
+</plist>

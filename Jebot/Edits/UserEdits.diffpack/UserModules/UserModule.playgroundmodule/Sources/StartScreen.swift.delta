@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>Foundat</string>
+			<key>ModifiedRange</key>
+			<string>{24, 7}</string>
+			<key>OriginalContent</key>
+			<string>K</string>
+			<key>OriginalRange</key>
+			<string>{24, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>on</string>
+			<key>ModifiedRange</key>
+			<string>{32, 2}</string>
+			<key>OriginalContent</key>
+			<string>t</string>
+			<key>OriginalRange</key>
+			<string>{26, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>                Text("An Indonesian Traditional Hand Game")
+                    .font(.system(size: 28))
+</string>
+			<key>ModifiedRange</key>
+			<string>{331, 105}</string>
+			<key>OriginalContent</key>
+			<string>                Text("An Indonesian Traditional Game")
+                    .font(.title)
+</string>
+			<key>OriginalRange</key>
+			<string>{324, 89}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>                    AudioManager.sharedManager.playSoundEffect(for: "buttonClick")
+</string>
+			<key>ModifiedRange</key>
+			<string>{539, 83}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{516, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>        .onAppear {
+            AudioManager.sharedManager.playBackgroundMusic()
+</string>
+			<key>ModifiedRange</key>
+			<string>{962, 81}</string>
+			<key>OriginalContent</key>
+			<string>        .onAppea {
+            let sound = 
+</string>
+			<key>OriginalRange</key>
+			<string>{856, 44}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>UserModules/UserModule.playgroundmodule/Sources/StartScreen.swift</string>
+</dict>
+</plist>

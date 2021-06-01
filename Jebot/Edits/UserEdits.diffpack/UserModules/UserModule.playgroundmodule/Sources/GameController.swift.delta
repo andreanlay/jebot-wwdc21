@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>            AudioManager.sharedManager.playSoundEffect(for: "roundWin")
+</string>
+			<key>ModifiedRange</key>
+			<string>{1059, 72}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1059, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>            AudioManager.sharedManager.playSoundEffect(for: "roundLose")
+</string>
+			<key>ModifiedRange</key>
+			<string>{2027, 73}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1955, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>\(computerGuess) and </string>
+			<key>ModifiedRange</key>
+			<string>{2394, 21}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{2249, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>'s</string>
+			<key>ModifiedRange</key>
+			<string>{2417, 2}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{2251, 0}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>UserModules/UserModule.playgroundmodule/Sources/GameController.swift</string>
+</dict>
+</plist>
